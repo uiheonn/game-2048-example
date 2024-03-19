@@ -18,7 +18,7 @@ spec:
       containers:
         - name: backend
           # Replace with your docker registry info
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_474987488642
+          image: k2dc01e0db37ca
           ports:
             - name: http
               containerPort: 8080
